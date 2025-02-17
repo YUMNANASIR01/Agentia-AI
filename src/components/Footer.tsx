@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-gradient-to-r from-gray-800 to-purple-700 text-white py-6">
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-300 text-sm">&copy; 2023 Agentia AI. All rights reserved.</p>
+          <p className="text-gray-300 text-sm">&copy; 2025 Agentia AI. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <div className="text-gray-300 hover:text-white transition duration-300">
               Privacy Policy
