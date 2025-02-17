@@ -1,4 +1,4 @@
-import Link from "next/link"
+
 
 interface ProductCardProps {
   id: string
@@ -7,7 +7,7 @@ interface ProductCardProps {
   category: string
 }
 
-export default function ProductCard({ id, name, description, category }: ProductCardProps) {
+export default function ProductCard({  name, description, category }: ProductCardProps) {
   return (
     <div className="bg-slate-100 shadow-lg rounded-lg p-4 sm:p-6 border border-purple-300 hover:shadow-xl transition-shadow duration-300">
       <h3 className="text-xl sm:text-2xl font-bold text-purple-800 mb-2 sm:mb-3">{name}</h3>
