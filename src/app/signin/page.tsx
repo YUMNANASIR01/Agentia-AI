@@ -1,6 +1,5 @@
 "use client"
 import { useState } from "react";
-import Link from "next/link";
 
 export default function Signin() {
   const [formData, setFormData] = useState({
@@ -84,7 +83,7 @@ export default function Signin() {
           </button>
         </form>
         <div className="mt-4 text-center">
-          <span className="text-gray-300">Don't have an account? </span>
+          <span className="text-gray-300">Dont have an account? </span>
           <div className="text-purple-500 hover:text-purple-600 transition duration-300">
             Sign Up
          <div/>

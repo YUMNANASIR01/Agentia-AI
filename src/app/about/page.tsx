@@ -29,7 +29,7 @@ export default function About() {
           <li>Exclusive insights and AI trends through blogs and expert interviews</li>
         </ul>
         <p className="text-lg leading-relaxed mt-6 animate__animated animate__fadeIn animate__delay-7s">
-          Whether you're a seasoned AI practitioner or just starting your journey in artificial intelligence, Agentia AI
+          Whether you are a seasoned AI practitioner or just starting your journey in artificial intelligence, Agentia AI
           Marketplace is here to support you every step of the way.
         </p>
       </div>
